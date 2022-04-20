@@ -20,3 +20,60 @@ header {
     
 }
 
+h1 {
+    margin-top: 20px ;
+    font-size: 60px;
+}
+
+.autore {
+    font-size: 30px;
+    color: #878787;
+    margin-bottom: 15px;
+}
+
+#nome-autore {
+    color: #31afe7;
+}
+
+/* main  */
+
+.caption {
+    font-size: 10px;
+}
+
+p {
+    margin-top: 20px;
+    
+}
+
+.testo-evidenziato {
+    background-color: #ffff00;
+}
+
+
+
+ul{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+td{
+    text-align: left;
+}
+
+th {
+    text-align: left;
+}
+
+.item-table{
+    background-color: #1fa9e5;
+}
+
+.dispari {
+    background-color: #b1e4f2;
+}
+
+.colonna-grande{
+    width: 50%;
+}
