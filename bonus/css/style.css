@@ -37,6 +37,10 @@ h1 {
 
 /* main  */
 
+.container {
+    width: 90%;
+    margin: auto;
+}
 .caption {
     font-size: 10px;
 }
@@ -49,6 +53,8 @@ p {
 .testo-evidenziato {
     background-color: #ffff00;
 }
+
+
 
 ul{
     margin-top: 15px;
