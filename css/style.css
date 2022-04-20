@@ -77,3 +77,33 @@ th {
 .colonna-grande{
     width: 50%;
 }
+
+/* footer */
+ .collegamenti {
+     margin-top: 15px;
+     margin-bottom: 15px;
+     color: #808080;
+
+ }
+
+ .foto-footer {
+     color: #ffffff;
+     padding-top: 10px;
+ }
+
+#first-foto {
+    background-image: url('../img/monitor.jpg');
+    width: 300px;
+    height: 200px;
+    padding-left: 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#second-foto {
+    background-image: url('../img/graph.jpg');
+    width: 300px;
+    height: 200px;
+    padding-left: 20px;
+    font-size: 20px;
+}
